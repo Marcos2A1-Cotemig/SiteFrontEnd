@@ -1,0 +1,29 @@
+table{ width : 100%; height: 100vh; margin: 0%; background-color: #1E1E1E; background-image: url(fundo2.jpg); background-repeat: no-repeat; background-size: 2000px;}
+
+body{margin: 0%;}
+
+td {width: 10%;}
+
+#logo{align-content: baseline;}
+
+.logo2{background-color: #0f0f0f; text-align: right; height: 8vh;}
+
+.tr2{height: 15vh;}
+
+.tr3{height: 15vh;}
+
+.tr4{height: 15vh;}
+
+.tr5{height: 15vh;}
+
+.image-button {background: none; border: none; cursor: pointer; padding: 0; text-align: left;}
+
+.image-button:hover img {opacity: 0.8; }
+
+#form{width: 50%;height: 2.5vh; text-align: center;}
+
+.ajuda{text-align: center;}
+
+#submit{width: 15%; height: 3vh;}
+
+#textvendas{font-size: 28px; color: aliceblue; text-align: center; text-shadow: 3px 3px 5px rgb(0, 0, 0);}

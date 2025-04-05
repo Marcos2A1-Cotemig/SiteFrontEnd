@@ -1,0 +1,40 @@
+table{ width : 100%; height: 100vh; margin: 0%; background-color: #1E1E1E; background-image: url(fundo2.jpg); background-repeat: no-repeat; background-size: 2000px;}
+
+body{margin: 0%;}
+
+td {width: 10%;}
+
+#logo{align-content: baseline;}
+
+.logo2{background-color: #0f0f0f; height: 2vh; text-align: right;}
+
+.texto{color: aliceblue;text-align: center; font-size: 90px; text-shadow: 3px 3px 5px rgb(0, 0, 0); align-content: end; }
+
+.tr3{height: 15vh;}
+
+#botao{width: 155px; margin-left: 25px; height: 55px; background: linear-gradient(90deg, #9340FF 0%, #FF3C5F 100%); border-radius: 50px;}
+
+.tdcombotao{text-align: center; height: 10vh;}
+
+.botaoesquerda{text-align: center; }
+
+.tdpequena{height: 10vh; width: 2%;}
+
+.imagemdupla{box-shadow: 3px 3px 5px white;}
+
+#pcgamer{text-align: center;}
+
+.texto2{color: aliceblue;text-align: center; font-size: 35px; text-shadow: 3px 3px 5px rgb(0, 0, 0);}
+
+.tr2{height: 15vh;}
+
+.texto3{font-size: 28px; color: aliceblue; text-align: center; text-shadow: 3px 3px 5px rgb(0, 0, 0);}
+
+.tr4{ height: 5vh;}
+
+.image-button {background: none; border: none; cursor: pointer; padding: 0; text-align: left;}
+
+.image-button:hover img {opacity: 0.8; }
+
+.texto5{color: aliceblue; text-decoration: none;}
+

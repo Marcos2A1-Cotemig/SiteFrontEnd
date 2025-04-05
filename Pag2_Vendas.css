@@ -1,0 +1,28 @@
+table{ width : 100%; height: 100vh; margin: 0%; background-color: #1E1E1E; background-image: url(fundo2.jpg); background-repeat: no-repeat; background-size: 2000px;} /* fundo e td organizada */ 
+
+body{margin: 0%;} /* sem margem */ 
+
+td {width: 10%;} /* tamanho da td */ 
+
+.texto{color: aliceblue;text-align: center; font-size: 90px; text-shadow: 3px 3px 5px rgb(0, 0, 0); align-content: end; } /* os texto */ 
+
+.logo2{background-color: #0f0f0f; height: 2vh; text-align: center;} /* cabeçalho */ 
+
+#logo{align-content: baseline;} 
+
+.image-button {background: none; border: none; cursor: pointer; padding: 0; text-align:center;}
+
+.image-button:hover img {opacity: 0.8; }
+
+.tr2{ height: 15vh;}
+
+.texto2{color: aliceblue;text-align: center; font-size: 35px; text-shadow: 3px 3px 5px rgb(0, 0, 0);}
+
+#pcgamer{text-align: center;}
+
+.tr3{height: 20vh; width: 40%;}
+
+.tr5{ height: 5vh;}
+
+.textvendas{font-size: 28px; color: aliceblue; text-align: center; text-shadow: 3px 3px 5px rgb(0, 0, 0);}
+
